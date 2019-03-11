@@ -1,5 +1,3 @@
-# tic-tac-toe
-A simple game developed to practice html, css and JS 
 # Tic-Tac-Toe
 This is a simple tic-tac-toe game developed to practivehtml, css and JS. It is designed to be played by two players in the same browser and can be played multiple times.
 # What I Learned
